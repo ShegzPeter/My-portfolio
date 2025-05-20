@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'MonumentExtended';
+  src: url('/src/assets/fonts/MonumentExtended-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: SomerunDemo;
+ src: url("../src/assets/fonts/SomerunDemoRegular-7Om74.ttf"),
+ 
+ }
+
+ @theme{
+  
+  --font-SomerunDemo: SomerunDemo, "san-serif"
+  
+}
+
+
+@import "tailwindcss";
+
+@theme{
+  --font-MonumentExtended: MonumentExtended, "sans-serif";
+  
+}
+
