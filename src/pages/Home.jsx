@@ -39,7 +39,7 @@ const Home = () => {
           I Design and Develop websites that captivate,
         </p>
         <p className="font-MonumentExtended text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl leading-snug">
-          Convert and <span className="text-[#3B82F6]">Elevate your Brand...nn</span>
+          Convert and <span className="text-[#3B82F6]">Elevate your Brand...</span>
         </p>
 
 
